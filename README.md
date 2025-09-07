@@ -1,6 +1,6 @@
 Computer Science & Technology — Syllabus & Study Materials
 
-> This repository has been created by Sagar to collect and organize all syllabus, notes, practice codes, and study resources related to Computer Science & Technology at the Class 12 / Diploma level.
+> This repository has been created to collect and organize all syllabus, notes, practice codes, and study resources related to Computer Science & Technology at the Diploma level.
 
 
 
@@ -11,7 +11,7 @@ Computer Science & Technology — Syllabus & Study Materials
 
 Purpose: To make learning faster and easier with simple, practical, and step-by-step notes and code.
 
-For: Students of Class 12 Vocational / Diploma / Beginners in Computer Science.
+For: Students of Diploma / Beginners in Computer Science.
 
 Language: English (with the option to add Bengali if required).
 
@@ -21,7 +21,7 @@ Language: English (with the option to add Bengali if required).
 
 📚 Contents (Highlights)
 
-Syllabus — Official syllabus for Class 12 / Diploma.
+Syllabus — Syllabus for Diploma.
 
 Notes — Clear and practical notes with examples and common questions.
 
@@ -42,4 +42,3 @@ The content in this repository is for educational purposes only. While every eff
 ---
 
 Prepared with ❤️ for focused learning.
-
