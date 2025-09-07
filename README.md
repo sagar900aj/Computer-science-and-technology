@@ -55,7 +55,7 @@ See [LICENSE](LICENSE) for full terms.
 ## Contact
 
 - GitHub: [sagar900aj](https://github.com/sagar900aj)  
-- Email: you@example.com (update if needed)
+- Email:  sagar900aj@gmail.com
 
 ---
 
