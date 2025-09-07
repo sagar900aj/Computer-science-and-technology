@@ -44,7 +44,11 @@
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This educational material is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+You are free to share and adapt the material for non-commercial purposes, as long as you provide attribution and distribute your contributions under the same license.
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
