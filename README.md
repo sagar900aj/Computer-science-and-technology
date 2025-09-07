@@ -33,3 +33,13 @@ Resources — Books, websites, and YouTube tutorials.
 
 
 ---
+
+⚠️ Disclaimer
+
+The content in this repository is for educational purposes only. While every effort is made to keep the notes, syllabus, and code examples accurate, the exact syllabus and requirements may differ across different colleges, boards, and institutions. Students should always cross-check with their official syllabus and guidelines.
+
+
+---
+
+Prepared with ❤️ for focused learning.
+
