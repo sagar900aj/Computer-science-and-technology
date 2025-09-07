@@ -39,3 +39,23 @@
    ```bash
    git clone https://github.com/sagar900aj/Computer-science-and-technology.git
    cd Computer-science-and-technology
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+- GitHub: [sagar900aj](https://github.com/sagar900aj)  
+- Email: you@example.com (update if needed)
+
+---
+
+
+## Disclaimer
+
+The content in this repository is for **educational purposes only**. While every effort is made to ensure the accuracy of notes, syllabus, and code examples, the actual syllabus and requirements may differ across different colleges, boards, and institutions. Students should always verify with their **official syllabus and guidelines**.
