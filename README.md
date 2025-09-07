@@ -12,10 +12,9 @@
 1. [Overview](#overview)
 2. [Contents (Highlights)](#contents-highlights)
 3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
-7. [Disclaimer](#disclaimer)
+4. [License](#license)
+5. [Contact](#contact)
+6. [Disclaimer](#disclaimer)
 
 ---
 
