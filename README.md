@@ -78,18 +78,19 @@ The content in this repository is for **educational purposes only**. While every
   <a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/sagar900aj/Computer-science-and-technology" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Share-Facebook-blue?logo=facebook" alt="Share on Facebook"/>
   </a>
-  
+  &ensp;
   <a href="https://api.whatsapp.com/send?text=Check%20this%20out%20-%20Computer%20Science%20%26%20Technology%20https://github.com/sagar900aj/Computer-science-and-technology" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Share-WhatsApp-brightgreen?logo=whatsapp" alt="Share on WhatsApp"/>
   </a>
-  
+  &ensp;
   <a href="https://t.me/share/url?url=https://github.com/sagar900aj/Computer-science-and-technology&text=Computer%20Science%20%26%20Technology%20Repo" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Share-Telegram-00aaf0?logo=telegram" alt="Share on Telegram"/>
   </a>
-  
+  &ensp;
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/sagar900aj/Computer-science-and-technology" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Share-LinkedIn-0e76a8?logo=linkedin" alt="Share on LinkedIn"/>
   </a>
+  &ensp;
   <a href="mailto:?subject=Computer%20Science%20%26%20Technology%20Repo&body=Check%20this%20out%20https://github.com/sagar900aj/Computer-science-and-technology" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Share-Email-gray?logo=gmail" alt="Share via Email"/>
   </a>
