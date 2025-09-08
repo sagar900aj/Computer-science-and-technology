@@ -61,8 +61,8 @@ See [LICENSE](LICENSE) for full terms.
 ## Contact
 
 - GitHub: [sagar900aj](https://github.com/sagar900aj)  
-- Email:  sagar900aj@gmail.com
-
+- Email: sagar900aj@gmail.com
+- linkdin: [sagar900aj](https://in.linkedin.com/in/sagar900aj)
 ---
 
 
