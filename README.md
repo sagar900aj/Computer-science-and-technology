@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_20250908_082031.png" alt="Computer Science & Technology Banner" width="100%">
+</p>
+
 # Computer Science & Technology — Syllabus & Study Materials
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
@@ -6,9 +10,7 @@
 
 > This repository has been created to collect and organize all syllabus, notes, practice codes, and study resources related to Computer Science & Technology at the Diploma level.
 
-<p align="center">
-  <img src="IMG_20250908_082031.png" alt="Computer Science & Technology Banner" width="100%">
-</p>
+
 
 ---
 
