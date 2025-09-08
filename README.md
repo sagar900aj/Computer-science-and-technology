@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_20250908_082031.png" alt="Computer Science & Technology Banner" width="100%">
+  <img src="assets/IMG_20250908_082031.png" alt="Computer Science & Technology Banner" width="100%">
 </p>
 
 # Computer Science & Technology — Syllabus & Study Materials
