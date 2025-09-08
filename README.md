@@ -4,7 +4,7 @@
 
 # Computer Science & Technology — Syllabus & Study Materials
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Last Commit](https://img.shields.io/github/last-commit/sagar900aj/Computer-science-and-technology)]()
 [![Repo Size](https://img.shields.io/github/repo-size/sagar900aj/Computer-science-and-technology)]()
 
