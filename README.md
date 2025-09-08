@@ -104,8 +104,7 @@ If you find this repository helpful, feel free to share it with your friends and
 
 1. Copy this repository link :
    ```bash
-    https://github.com/sagar900aj/Computer-science-and-technology.git
-
+   https://github.com/sagar900aj/Computer-science-and-technology.git
 ⭐ Don’t forget to **star** this repo — it helps others discover it!
 
 
