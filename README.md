@@ -96,7 +96,6 @@ The content in this repository is for **educational purposes only**. While every
   </a>
 </p>
 
----
 
 If you find this repository helpful, feel free to share it with your friends and classmates!  
 
@@ -120,4 +119,5 @@ If you find this repository helpful, feel free to share it with your friends and
   — <b>Sagar</b>
 </p>
 
+---
 ---
