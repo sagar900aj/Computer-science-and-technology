@@ -21,6 +21,7 @@
 4. [License](#license)
 5. [Contact](#contact)
 6. [Disclaimer](#disclaimer)
+7. [Semester 3](/Semester_3)
 
 ---
 
