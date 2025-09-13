@@ -29,7 +29,7 @@
 ## 📘 CST203 – Scripting Languages (Python)  
 🔗 [YouTube Playlist](https://youtu.be/eWRfhZUzrAc)
 
-🔗 [BOOK](Semester_3/📘%20CST203%20–%20Scripting%20Languages%20(Python)/04_Book_%20Python%20Programming%20(3rd%20SEM)_watermark.pdf)
+🔗 [BOOK](📘%20CST203%20–%20Scripting%20Languages%20(Python)/04_Book_%20Python%20Programming%20(3rd%20SEM)_watermark.pdf)
 
 ### 🔹 Topics to Cover  
 1. Python Basics (syntax, data types, operators)  
@@ -52,7 +52,7 @@
 ## 📘 CST205 – Data Structures  
 🔗 [YouTube Playlist](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
-🔗 [BOOK](Semester_3/📘%20CST205%20–%20Data%20Structure/Data%20Structures_AICTE_compressed.pdf)
+🔗 [BOOK](📘%20CST205%20–%20Data%20Structure/Data%20Structures_AICTE_compressed.pdf)
 
 
 ### 🔹 Topics to Cover  
@@ -76,7 +76,7 @@
 ## 📘 CST207 – Computer System Organization  
 🔗 [YouTube Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
 
-🔗 [BOOK](/Semester_3/📘%20CST201%20–%20Computer%20Programming%20(C)/Final_Diploma-Computer%20System%20Organization_AICTE_compressed.pdf)
+🔗 [BOOK](📘%20CST207%20–%20Computer%20System%20Organization/Final_Diploma-Computer%20System%20Organization_AICTE_compressed.pdf)
 
 
 ### 🔹 Topics to Cover  
@@ -100,7 +100,7 @@
 ## 📘 CST209 – Algorithms  
 🔗 [YouTube Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)
 
-🔗 [BOOK](/Semester_3/📘%20CST201%20–%20Computer%20Programming%20(C)/Algorithms_Book_AICTE.pdf)
+🔗 [BOOK](📘%20CST209%20–%20Algorithms/Algorithms_Book_AICTE.pdf)
 
 
 ### 🔹 Topics to Cover  
