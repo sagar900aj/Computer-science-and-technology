@@ -5,7 +5,7 @@
 ## 📘 CST201 – Computer Programming (C)  
 🔗 [YouTube Playlist](https://youtu.be/aZb0iu4uGwA)
 
-🔗 [BOOK](/📘%20CST201%20–%20Computer%20Programming%20(C)/Computer%20Programming_AICTE.pdf)
+🔗 [BOOK](/Semester_3/📘%20CST201%20–%20Computer%20Programming%20(C)/Computer%20Programming_AICTE.pdf)
 
 ### 🔹 Topics to Cover  
 1. Basics: Data types, Operators, Input/Output  
