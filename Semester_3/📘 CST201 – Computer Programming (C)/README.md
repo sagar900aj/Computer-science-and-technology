@@ -6,7 +6,7 @@
 
 ### 📌 Unit 1: Basics of C
 - [🏛️ History of C](#%EF%B8%8F-history-of-c)
-- [🏗️ Structured Programming](#-history-of-c)
+- [🏗️ Structured Programming](#%EF%B8%8F-advantages-of-structured-programming)
 - [📁 Files in C](#-files-in-c)
 - [🔤 Language Basics](#-language-basics)
 - [🎮 Operators & Types](#-operators)
