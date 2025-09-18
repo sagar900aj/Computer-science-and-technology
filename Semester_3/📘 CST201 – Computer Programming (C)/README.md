@@ -130,8 +130,6 @@ scanf("%d %s", &age, name);
 4. ✏️ Try practice problems
 5. ▶️ Run sample programs
 
-## 📜 License
-MIT License - ✨ feel free to use and share
 
 ## 🤝 Contributing
 🌟 Pull requests are welcome. For major changes, please open an issue first.
@@ -140,8 +138,6 @@ MIT License - ✨ feel free to use and share
 <div align="center">
 ⭐ Star this repository if you find it helpful! ⭐
 
-📧 Contact: [Create Issue](../../issues)
-</div>
 
 ## 🔄 Unit 2: Control Flow
 
@@ -896,7 +892,6 @@ ulong fileSize;
 
 #### 🎥 Video Lectures
 - [Harvard's CS50: Introduction to Computer Science](https://cs50.harvard.edu/college/2021/fall/courses/cs50/)
-- [MIT OpenCourseWare - Introduction to C Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087s-introduction-to-c-programming-spring-2011/)
 
 ### 💡 Best Practices
 - Break projects into smaller, manageable tasks.
@@ -912,4 +907,4 @@ ulong fileSize;
 4. 📁 Build a file compression and decompression tool
 5. 🔄 Create a memory management library
 
-[⬅️ Previous Unit](#unit-6-advanced-topics)
+[⬅️ Previous Unit](#_Unit_7_Projects_and_Resources)
