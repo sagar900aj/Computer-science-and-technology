@@ -5,44 +5,58 @@
 ## 📚 Table of Contents
 
 ### 📌 Unit 1: Basics of C
-- [🏛️ History and Evolution](#history-of-c)
-- [🏗️ Structured Programming](#advantages-of-structured-programming)
-- [📁 Files in C](#files-in-c)
-- [🔤 Language Basics](#c-language-basics)
-- [🎮 Operators & Types](#operators-and-types)
-- [💻 Input/Output](#input-and-output)
+- [🏛️ History of C](#-history-of-c)
+- [🏗️ Structured Programming](#-advantages-of-structured-programming)
+- [📁 Files in C](#-files-in-c)
+- [🔤 Language Basics](#-language-basics)
+- [🎮 Operators & Types](#-operators)
+- [💻 Input/Output](#-inputoutput-examples)
 
 ### 📌 Unit 2: Control Flow
-- [🔄 Decision Making](#decision-making)
-  - [⚡ if Statements](#if-statements)
-  - [🔀 switch Statement](#switch-statement)
-  - [↪️ goto Statement](#goto-statement)
-- [🔁 Loops](#loops)
-  - [🔄 while & do-while](#while-and-do-while)
-  - [📍 for Loop](#for-loop)
-  - [🎮 Control Statements](#control-statements)
+- [🔄 Decision Making](#-decision-making-statements)
+  - [⚡ if Statements](#-if-statement)
+  - [🔀 switch Statement](#-switch-statement)
+  - [↪️ goto Statement](#-goto-statement)
+- [🔁 Loops](#-loops)
+  - [📍 while Loop](#-while-loop)
+  - [🔄 do-while Loop](#-do-while-loop)
+  - [📈 for Loop](#-for-loop)
+  - [🎮 Control Statements](#-control-statements)
 
 ### 📌 Unit 3: Arrays & Strings
-- [📊 Arrays](#arrays)
-  - [📈 One-Dimensional Arrays](#one-dimensional-arrays)
-  - [🎲 Multi-Dimensional Arrays](#multi-dimensional-arrays)
-- [📝 Strings](#strings)
-  - [🔠 String Functions](#string-functions)
-  - [✂️ String Operations](#string-operations)
+- [📊 Arrays](#-arrays)
+  - [📈 One-Dimensional Arrays](#-one-dimensional-arrays)
+  - [🔳 Multi-Dimensional Arrays](#-multi-dimensional-arrays)
+- [📝 Strings](#-strings)
+  - [🔤 String Basics](#-string-basics)
+  - [🛠️ String Functions](#-string-functions)
+  - [✂️ String Manipulation](#-string-manipulation-examples)
 
 ### 📌 Unit 4: Functions
-- [⚙️ Function Basics](#function-basics)
-- [🌐 Variable Scope](#scope-and-lifetime)
-- [💾 Storage Classes](#storage-classes)
-- [📤 Parameter Passing](#parameter-passing)
-- [🔄 Recursion](#recursion)
+- [🎯 Function Basics](#-function-basics)
+- [🌐 Variable Scope](#-variable-scope)
+- [💾 Storage Classes](#-storage-classes)
+- [📤 Parameter Passing](#-parameter-passing)
+- [🔄 Recursion](#-recursion)
 
 ### 📌 Unit 5: Pointers
-- [🎯 Pointer Fundamentals](#pointer-fundamentals)
-- [🔢 Types of Pointers](#types-of-pointers)
-- [🎮 Pointer Operations](#pointer-operations)
-- [�內 Memory Management](#dynamic-memory-allocation)
-- [🎓 Advanced Concepts](#advanced-pointer-concepts)
+- [🎯 Pointer Fundamentals](#-pointer-fundamentals)
+- [🔢 Types of Pointers](#-types-of-pointers)
+- [🎮 Pointer Operations](#-pointer-operations)
+- [💾 Memory Management](#-dynamic-memory-management)
+- [🎯 Advanced Concepts](#-advanced-pointer-concepts)
+
+### 📌 Unit 6: Advanced Topics
+- [📚 Structures and Unions](#-structures-and-unions)
+- [📂 File Handling](#-file-handling)
+- [🔄 Dynamic Memory Allocation](#-dynamic-memory-allocation)
+- [📚 Advanced Data Types](#-advanced-data-types)
+- [📜 Preprocessor Directives](#-preprocessor-directives)
+
+### 📌 Unit 7: Projects and Resources
+- [📂 Mini Projects](#-mini-projects)
+- [📚 Resources](#-resources)
+- [💡 Best Practices](#-best-practices)
 
 ## 🌟 Unit 1: Basics of C
 
