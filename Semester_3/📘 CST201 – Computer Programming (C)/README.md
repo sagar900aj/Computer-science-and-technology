@@ -135,7 +135,7 @@ scanf("%d %s", &age, name);
 🌟 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
-<div align="center">
+
 ⭐ Star this repository if you find it helpful! ⭐
 
 
@@ -907,4 +907,4 @@ ulong fileSize;
 4. 📁 Build a file compression and decompression tool
 5. 🔄 Create a memory management library
 
-[⬅️ Previous Unit](#_Unit_7_Projects_and_Resources)
+[⬅️ Previous Unit](#-unit-7-projects-and-resources-1)
