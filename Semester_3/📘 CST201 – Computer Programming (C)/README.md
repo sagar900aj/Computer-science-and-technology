@@ -9,8 +9,8 @@
 - [🏗️ Structured Programming](#%EF%B8%8F-advantages-of-structured-programming)
 - [📁 Files in C](#-files-in-c)
 - [🔤 Language Basics](#-language-basics)
-- [🎮 Operators & Types](#-operators)
-- [💻 Input/Output](#-inputoutput-examples)
+- [🎮 Operators & Types](#%EF%B8%8F-operators)
+- [💻 Input/Output](#%EF%B8%8F-inputoutput-examples)
 
 ### 📌 Unit 2: Control Flow
 - [🔄 Decision Making](#-decision-making-statements)
