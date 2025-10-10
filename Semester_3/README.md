@@ -7,6 +7,8 @@
 
 🔗 [BOOK](📘%20CST201%20–%20Computer%20Programming%20(C)/Computer%20Programming_AICTE.pdf)
 
+🔗 [All Study Materials](📘%20CST201%20–%20Computer%20Programming%20(C)/)
+
 ### 🔹 Topics to Cover  
 1. Basics: Data types, Operators, Input/Output  
 2. Control Structures: if-else, switch, loops  

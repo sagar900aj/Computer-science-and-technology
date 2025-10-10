@@ -5,12 +5,12 @@
 ## 📚 Table of Contents
 
 ### 📌 Unit 1: Basics of C
-- [🏛️ History of C](#-history-of-c)
-- [🏗️ Structured Programming](#-advantages-of-structured-programming)
+- [🏛️ History of C](#%EF%B8%8F-history-of-c)
+- [🏗️ Structured Programming](#%EF%B8%8F-advantages-of-structured-programming)
 - [📁 Files in C](#-files-in-c)
 - [🔤 Language Basics](#-language-basics)
-- [🎮 Operators & Types](#-operators)
-- [💻 Input/Output](#-inputoutput-examples)
+- [🎮 Operators & Types](#%EF%B8%8F-operators)
+- [💻 Input/Output](#%EF%B8%8F-inputoutput-examples)
 
 ### 📌 Unit 2: Control Flow
 - [🔄 Decision Making](#-decision-making-statements)
@@ -130,18 +130,15 @@ scanf("%d %s", &age, name);
 4. ✏️ Try practice problems
 5. ▶️ Run sample programs
 
-## 📜 License
-MIT License - ✨ feel free to use and share
 
 ## 🤝 Contributing
 🌟 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
-<div align="center">
+
 ⭐ Star this repository if you find it helpful! ⭐
 
-📧 Contact: [Create Issue](../../issues)
-</div>
+[⬅️ Previous Unit](#-unit-1-basics-of-c-1) | [Next Unit ➡️](#-unit-2-control-flow-1)
 
 ## 🔄 Unit 2: Control Flow
 
@@ -313,7 +310,7 @@ bool isPrime(int num) {
 4. ⭐ Check for palindrome number
 5. 📈 Find factorial using loops
 
-[⬅️ Previous Unit](#unit-1-basics-of-c) | [Next Unit ➡️](#unit-3-arrays--strings)
+[⬅️ Previous Unit](#-unit-2-control-flow-1) | [Next Unit ➡️](#-unit-3-arrays--strings-1)
 
 ## 📊 Unit 3: Arrays & Strings
 
@@ -459,7 +456,7 @@ int charFrequency(char str[], char ch) {
 - 📝 String manipulation techniques
 - 🔍 Array sorting algorithms
 
-[⬅️ Previous Unit](#unit-2-control-flow) | [Next Unit ➡️](#unit-4-functions)
+[⬅️ Previous Unit](#-unit-3-arrays--strings-1) | [Next Unit ➡️](#%EF%B8%8F-unit-4-functions)
 
 ## ⚙️ Unit 4: Functions
 
@@ -615,7 +612,7 @@ int fibonacci(int n) {
 4. 🎲 Implement binary search function
 5. 📝 Create a menu-driven program using functions
 
-[⬅️ Previous Unit](#unit-3-arrays--strings) | [Next Unit ➡️](#unit-5-pointers)
+[⬅️ Previous Unit](#%EF%B8%8F-unit-4-functions) | [Next Unit ➡️](#-unit-5-pointers-1)
 
 ## 📌 Unit 5: Pointers
 
@@ -755,7 +752,7 @@ printf("Difference: %d\n", operation(5, 3));
 4. 🎲 Implement string functions using pointers
 5. 🔍 Create a pointer-based linked list
 
-[⬅️ Previous Unit](#unit-4-functions) | [Next Unit ➡️](#unit-6-advanced-topics)
+[⬅️ Previous Unit](#-unit-5-pointers-1) | [Next Unit ➡️](#-unit-6-advanced-topics-1)
 
 ## 🔨 Unit 6: Advanced Topics
 
@@ -866,7 +863,7 @@ ulong fileSize;
 4. 📁 Create a program to copy contents from one file to another
 5. 🔄 Implement a memory pool for dynamic memory allocation
 
-[⬅️ Previous Unit](#unit-5-pointers) | [Next Unit ➡️](#unit-7-projects-and-resources)
+[⬅️ Previous Unit](#-unit-6-advanced-topics-1) | [Next Unit ➡️](#-unit-7-projects-and-resources-1)
 
 ## 🚀 Unit 7: Projects and Resources
 
@@ -896,7 +893,6 @@ ulong fileSize;
 
 #### 🎥 Video Lectures
 - [Harvard's CS50: Introduction to Computer Science](https://cs50.harvard.edu/college/2021/fall/courses/cs50/)
-- [MIT OpenCourseWare - Introduction to C Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087s-introduction-to-c-programming-spring-2011/)
 
 ### 💡 Best Practices
 - Break projects into smaller, manageable tasks.
@@ -912,4 +908,4 @@ ulong fileSize;
 4. 📁 Build a file compression and decompression tool
 5. 🔄 Create a memory management library
 
-[⬅️ Previous Unit](#unit-6-advanced-topics)
+[⬅️ Previous Unit](#-unit-7-projects-and-resources-1)
