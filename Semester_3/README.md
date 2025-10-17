@@ -120,3 +120,7 @@
 👉 **Practice**: প্রতিটা অ্যালগরিদম কাগজে dry run + code করে আউটপুট দেখো  
 
 ---
+
+#### 🎥 Video Lectures
+- [Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
