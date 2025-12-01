@@ -456,7 +456,7 @@ with open("student.json", "r") as file:
 ---
 
 ## Unit 6: Django Basics
-[`Django_lab file`](📘%20CST203%20–%20Scripting%20Languages%20(Python)/Django)
+[`Django_lab file`](Django/)
 
 ### Topics Covered
 - Django project and app creation
