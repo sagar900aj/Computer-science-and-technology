@@ -58,6 +58,7 @@
 
 🔗 [BOOK](📘%20CST205%20–%20Data%20Structure/Data%20Structures_AICTE_compressed.pdf)
 
+🔗 [All Study Materials](/📘%20CST205%20–%20Data%20Structure/)
 
 ### 🔹 Topics to Cover  
 1. Arrays & Operations  
@@ -82,6 +83,7 @@
 
 🔗 [BOOK](📘%20CST207%20–%20Computer%20System%20Organization/Final_Diploma-Computer%20System%20Organization_AICTE_compressed.pdf)
 
+🔗 [All Study Materials](/📘%20CST207%20–%20Computer%20System%20Organization/)
 
 ### 🔹 Topics to Cover  
 1. Computer Architecture basics (Von Neumann, Registers)  
@@ -106,6 +108,7 @@
 
 🔗 [BOOK](📘%20CST209%20–%20Algorithms/Algorithms_Book_AICTE.pdf)
 
+🔗 [All Study Materials](/📘%20CST209%20–%20Algorithms/)
 
 ### 🔹 Topics to Cover  
 1. Basics of Algorithms & Complexity (Big-O, Ω, Θ)  
