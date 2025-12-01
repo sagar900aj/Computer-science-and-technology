@@ -33,6 +33,8 @@
 
 🔗 [BOOK](📘%20CST203%20–%20Scripting%20Languages%20(Python)/04_Book_%20Python%20Programming%20(3rd%20SEM)_watermark.pdf)
 
+🔗 [All Study Materials](📘%20CST203%20–%20Scripting%20Languages%20(Python)/)
+
 ### 🔹 Topics to Cover  
 1. Python Basics (syntax, data types, operators)  
 2. Control Statements (if, loop, break, continue)  
@@ -123,4 +125,55 @@
 
 #### 🎥 Video Lectures
 - [Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
+---
+
+## 📚 Exam-Ready Study Notes
+
+**Comprehensive, working-code notes for all subjects** – Perfect for exam preparation!
+
+### 📖 Available Notes
+
+| Subject | File | Topics Covered |
+|---------|------|-----------------|
+| **CST201 - C Programming** | [`CST_Notes/CST201_C_Programming.md`](CST_Notes/CST201_C_Programming.md) | Basics, Control Flow, Arrays, Strings, Functions, Pointers, Structures, File Handling |
+| **CST203 - Python** | [`CST_Notes/CST203_Python.md`](CST_Notes/CST203_Python.md) | Python Basics, Control Structures, Data Structures, Functions, File Handling, Django |
+| **CST205 - Data Structures** | [`CST_Notes/CST205_Data_Structures.md`](CST_Notes/CST205_Data_Structures.md) | Arrays, Stack, Queue, Linked List, Trees, Graphs |
+| **CST207 - Computer System Organization** | [`CST_Notes/CST207_CSO.md`](CST_Notes/CST207_CSO.md) | Architecture, CPU, Memory, Pipelining, 8086 Microprocessor |
+| **CST209 - Algorithms** | [`CST_Notes/CST209_Algorithms.md`](CST_Notes/CST209_Algorithms.md) | Complexity Analysis, Sorting, Searching, Graph Algorithms |
+
+### 🚀 How to Use
+
+1. **Navigate to the `CST_Notes` folder** in your local repository
+2. **Open the markdown file** for your subject
+3. **Study each unit** with working code examples
+4. **Practice all examples** by running them in your IDE/terminal
+5. **Solve practice problems** given at the end of each unit
+
+### ✨ Features
+
+- ✅ **Working C & Python Code Examples** – Copy and run directly
+- ✅ **Exam-Style Questions** – 3-5 practice problems per unit
+- ✅ **Big-O Complexity Analysis** – Essential for Data Structures & Algorithms
+- ✅ **Concise Explanations** – Hindi/English mix, focused on concepts
+- ✅ **200-400 words per topic** – Concise yet comprehensive
+- ✅ **Real-world Applications** – Understand where each topic is used
+
+### 💡 Study Tips
+
+```bash
+# Quick tips for better learning:
+1. Practice dry runs on paper before coding
+2. Draw diagrams for trees, graphs, memory layout
+3. Trace through algorithms step-by-step
+4. Solve each practice problem without looking at solutions
+5. Understand complexity analysis, don't memorize formulas
+```
+
+### 📝 Notes Updates
+
+**Last Updated:** December 2024  
+All notes aligned with **3rd Semester AICTE Diploma Syllabus**
+
+---
 
