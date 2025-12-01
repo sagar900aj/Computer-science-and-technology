@@ -58,7 +58,7 @@
 
 🔗 [BOOK](📘%20CST205%20–%20Data%20Structure/Data%20Structures_AICTE_compressed.pdf)
 
-🔗 [All Study Materials](/📘%20CST205%20–%20Data%20Structure/)
+🔗 [All Study Materials](📘%20CST205%20–%20Data%20Structure/)
 
 ### 🔹 Topics to Cover  
 1. Arrays & Operations  
@@ -83,7 +83,7 @@
 
 🔗 [BOOK](📘%20CST207%20–%20Computer%20System%20Organization/Final_Diploma-Computer%20System%20Organization_AICTE_compressed.pdf)
 
-🔗 [All Study Materials](/📘%20CST207%20–%20Computer%20System%20Organization/)
+🔗 [All Study Materials](📘%20CST207%20–%20Computer%20System%20Organization/)
 
 ### 🔹 Topics to Cover  
 1. Computer Architecture basics (Von Neumann, Registers)  
@@ -108,7 +108,7 @@
 
 🔗 [BOOK](📘%20CST209%20–%20Algorithms/Algorithms_Book_AICTE.pdf)
 
-🔗 [All Study Materials](/📘%20CST209%20–%20Algorithms/)
+🔗 [All Study Materials](📘%20CST209%20–%20Algorithms/)
 
 ### 🔹 Topics to Cover  
 1. Basics of Algorithms & Complexity (Big-O, Ω, Θ)  
@@ -139,11 +139,11 @@
 
 | Subject | File | Topics Covered |
 |---------|------|-----------------|
-| **CST201 - C Programming** | [`CST201_C_Programming`](/📘%20CST201%20–%20Computer%20Programming%20(C)/) | Basics, Control Flow, Arrays, Strings, Functions, Pointers, Structures, File Handling |
-| **CST203 - Python** | [`CST203_Python`](/📘%20CST203%20–%20Scripting%20Languages%20(Python)/) | Python Basics, Control Structures, Data Structures, Functions, File Handling, Django |
-| **CST205 - Data Structures** | [`CST205_Data_Structures`](/📘%20CST205%20–%20Data%20Structure/) | Arrays, Stack, Queue, Linked List, Trees, Graphs |
-| **CST207 - Computer System Organization** | [`CST207_CSO`](/📘%20CST207%20–%20Computer%20System%20Organization/) | Architecture, CPU, Memory, Pipelining, 8086 Microprocessor |
-| **CST209 - Algorithms** | [`CST209_Algorithms`](/📘%20CST209%20–%20Algorithms/) | Complexity Analysis, Sorting, Searching, Graph Algorithms |
+| **CST201 - C Programming** | [`CST201_C_Programming`](📘%20CST201%20–%20Computer%20Programming%20(C)/) | Basics, Control Flow, Arrays, Strings, Functions, Pointers, Structures, File Handling |
+| **CST203 - Python** | [`CST203_Python`](📘%20CST203%20–%20Scripting%20Languages%20(Python)/) | Python Basics, Control Structures, Data Structures, Functions, File Handling, Django |
+| **CST205 - Data Structures** | [`CST205_Data_Structures`](📘%20CST205%20–%20Data%20Structure/) | Arrays, Stack, Queue, Linked List, Trees, Graphs |
+| **CST207 - Computer System Organization** | [`CST207_CSO`](📘%20CST207%20–%20Computer%20System%20Organization/) | Architecture, CPU, Memory, Pipelining, 8086 Microprocessor |
+| **CST209 - Algorithms** | [`CST209_Algorithms`](📘%20CST209%20–%20Algorithms/) | Complexity Analysis, Sorting, Searching, Graph Algorithms |
 
 
 
