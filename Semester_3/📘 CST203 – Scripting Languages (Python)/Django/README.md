@@ -1,5 +1,7 @@
 # Django Setup & Simple App — Lab Copy
 
+
+
 <p align="center">
   <strong>Lab Experiment: Django Installation & Blog Users Application</strong>
 </p>
@@ -15,6 +17,7 @@
 | **Date** | 30.11.25 |
 | **Experiment** | Install Django, create project & app, templates, static files, model, migrate, display data |
 
+ [`Full project`](/📘%20CST203%20–%20Scripting%20Languages%20(Python)/Django/Django_lab) 
 ---
 
 ## 🎯 Objective

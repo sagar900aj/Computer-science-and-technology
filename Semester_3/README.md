@@ -136,19 +136,13 @@
 
 | Subject | File | Topics Covered |
 |---------|------|-----------------|
-| **CST201 - C Programming** | [`CST_Notes/CST201_C_Programming.md`](CST_Notes/CST201_C_Programming.md) | Basics, Control Flow, Arrays, Strings, Functions, Pointers, Structures, File Handling |
-| **CST203 - Python** | [`CST_Notes/CST203_Python.md`](CST_Notes/CST203_Python.md) | Python Basics, Control Structures, Data Structures, Functions, File Handling, Django |
-| **CST205 - Data Structures** | [`CST_Notes/CST205_Data_Structures.md`](CST_Notes/CST205_Data_Structures.md) | Arrays, Stack, Queue, Linked List, Trees, Graphs |
-| **CST207 - Computer System Organization** | [`CST_Notes/CST207_CSO.md`](CST_Notes/CST207_CSO.md) | Architecture, CPU, Memory, Pipelining, 8086 Microprocessor |
-| **CST209 - Algorithms** | [`CST_Notes/CST209_Algorithms.md`](CST_Notes/CST209_Algorithms.md) | Complexity Analysis, Sorting, Searching, Graph Algorithms |
+| **CST201 - C Programming** | [`CST201_C_Programming`](/📘%20CST201%20–%20Computer%20Programming%20(C)/) | Basics, Control Flow, Arrays, Strings, Functions, Pointers, Structures, File Handling |
+| **CST203 - Python** | [`CST203_Python`](/📘%20CST203%20–%20Scripting%20Languages%20(Python)/) | Python Basics, Control Structures, Data Structures, Functions, File Handling, Django |
+| **CST205 - Data Structures** | [`CST205_Data_Structures`](/📘%20CST205%20–%20Data%20Structure/) | Arrays, Stack, Queue, Linked List, Trees, Graphs |
+| **CST207 - Computer System Organization** | [`CST207_CSO`](/📘%20CST207%20–%20Computer%20System%20Organization/) | Architecture, CPU, Memory, Pipelining, 8086 Microprocessor |
+| **CST209 - Algorithms** | [`CST209_Algorithms`](/📘%20CST209%20–%20Algorithms/) | Complexity Analysis, Sorting, Searching, Graph Algorithms |
 
-### 🚀 How to Use
 
-1. **Navigate to the `CST_Notes` folder** in your local repository
-2. **Open the markdown file** for your subject
-3. **Study each unit** with working code examples
-4. **Practice all examples** by running them in your IDE/terminal
-5. **Solve practice problems** given at the end of each unit
 
 ### ✨ Features
 
@@ -172,7 +166,7 @@
 
 ### 📝 Notes Updates
 
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 All notes aligned with **3rd Semester AICTE Diploma Syllabus**
 
 ---
