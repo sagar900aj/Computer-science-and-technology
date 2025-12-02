@@ -17,7 +17,7 @@
 | **Date** | 30.11.25 |
 | **Experiment** | Install Django, create project & app, templates, static files, model, migrate, display data |
 
- [`Full project`](/Django_lab) 
+ [`Full project`](https://github.com/sagar900aj/Computer-science-and-technology/tree/Study/Semester_3/%F0%9F%93%98%20CST203%20%E2%80%93%20Scripting%20Languages%20(Python)/Django/Django_lab) 
 ---
 
 ## 🎯 Objective
