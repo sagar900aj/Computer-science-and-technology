@@ -1,0 +1,143 @@
+# ---------------------------
+# OS system files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# Windows thumbnail and system files
+ehthumbs.db
+Desktop.ini
+
+# ---------------------------
+# C / C++ compiled files
+# ---------------------------
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.class
+
+# ---------------------------
+# Python cache files
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# ---------------------------
+# VS Code settings
+# ---------------------------
+.vscode/
+*.code-workspace
+
+# ---------------------------
+# Temporary files
+# ---------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ---------------------------
+# Backup files
+# ---------------------------
+*~
+*.bak
+
+# ---------------------------
+# IDE project folders
+# ---------------------------
+.idea/
+*.iml
+
+# ---------------------------
+# Virtual environments
+# ---------------------------
+# Common names for python virtual environments (ignore the whole folder)
+venv/
+env/
+.venv/
+# if you used 'myworld' as venv name in examples
+myworld/
+
+# ignore virtualenvs anywhere in repo
+**/venv/
+**/env/
+**/.venv/
+**/myworld/
+
+# ---------------------------
+# Distribution / packaging
+# ---------------------------
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# ---------------------------
+# Installer / pip logs
+# ---------------------------
+pip-log.txt
+
+# ---------------------------
+# Unit test / coverage
+# ---------------------------
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ---------------------------
+# PyInstaller
+# ---------------------------
+*.manifest
+*.spec
+
+# ---------------------------
+# Django / project files
+# ---------------------------
+# Database files (SQLite) - typically not committed
+db.sqlite3
+db.sqlite3-journal
+
+# Local settings / environment files
+local_settings.py
+.env
+.env.*
+
+# Media uploaded by users (if using MEDIA_ROOT)
+media/
+
+# Don't ignore app migrations directory itself; we want to keep migrations tracked.
+# But ignore compiled Python caches inside migrations
+*/migrations/__pycache__/
+
+# ---------------------------
+# System / misc
+# ---------------------------
+*.pot
+*.mo
+*.log
+
+# Secrets / credentials
+secrets.json
+
+# pip cache
+pip-wheel-metadata/
+
+# Keep your assets (images, docs) tracked — DO NOT add 'assets/' here if you want images in repo.
+# Example: do NOT ignore 'assets/' so README images show correctly.
+
