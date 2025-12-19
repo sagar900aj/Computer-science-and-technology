@@ -15,18 +15,18 @@
 
 **1. Von Neumann Architecture**
 
-चार मुख्य components:
-- **Input Unit**: Data और instructions लेता है
-- **Memory Unit**: Data और instructions store करता है
-- **Control Unit**: Program का execution control करता है
-- **Arithmetic Logic Unit (ALU)**: Calculations करता है
-- **Output Unit**: Results दिखाता है
+Four main components:
+- **Input Unit**: Takes data and instructions
+- **Memory Unit**: Stores data and instructions
+- **Control Unit**: Controls program execution
+- **Arithmetic Logic Unit (ALU)**: Performs calculations
+- **Output Unit**: Displays results
 
 **2. CPU Components**
 
 - **Registers**: Very fast memory (accumulator, program counter, instruction register)
-- **Control Unit**: Instructions को decode करके execute करता है
-- **ALU**: Arithmetic और logical operations करता है
+- **Control Unit**: Decodes and executes instructions
+- **ALU**: Performs arithmetic and logical operations
 
 **3. Memory Hierarchy**
 
@@ -42,7 +42,7 @@ Slowest and Cheapest
 
 ---
 
-## Unit 2: Control Unit और Micro-programming
+## Unit 2: Control Unit and Micro-programming
 
 ### Topics Covered
 - Instruction execution cycle (Fetch-Decode-Execute)
@@ -54,15 +54,15 @@ Slowest and Cheapest
 **1. Fetch-Decode-Execute Cycle**
 
 ```
-1. Fetch: Program Counter से instruction fetch करो memory से
-2. Decode: Instruction को decode करो control unit में
-3. Execute: ALU में operation perform करो
-4. Store Result: Result को memory या register में store करो
+1. Fetch: Fetch instruction from memory using Program Counter
+2. Decode: Decode instruction in control unit
+3. Execute: Perform operation in ALU
+4. Store Result: Store result in memory or register
 ```
 
 **2. Micro-instructions**
 
-Micro-programming एक तरीका है जहां complex instructions को simple micro-steps में divide किया जाता है।
+Micro-programming is a method where complex instructions are divided into simple micro-steps.
 
 ---
 
@@ -81,7 +81,7 @@ Micro-programming एक तरीका है जहां complex instruction
 8-bit unsigned: 0 to 255
 8-bit signed: -128 to 127 (2's complement)
 
-Example: -5 का 2's complement
+Example: 2's complement of -5
 5 = 00000101
 Invert: 11111010
 Add 1: 11111011 (-5)
@@ -111,7 +111,7 @@ Example: 5.5
 
 **1. Pipelining Concept**
 
-Pipelining में multiple instructions एक साथ execute होते हैं अलग-अलग stages में।
+In pipelining, multiple instructions are executed simultaneously in different stages.
 
 ```
 Without Pipeline:
@@ -126,9 +126,9 @@ I1: Fetch Decode Execute Store
 
 **2. Pipeline Hazards**
 
-- **Data Hazard**: एक instruction दूसरे के data पर depend करता है
-- **Control Hazard**: Branch instruction के कारण होता है
-- **Structural Hazard**: Resource sharing के कारण होता है
+- **Data Hazard**: One instruction depends on data from another instruction
+- **Control Hazard**: Occurs due to branch instructions
+- **Structural Hazard**: Occurs due to resource sharing
 
 ---
 
@@ -213,7 +213,7 @@ RAM: GB (much slower)
 
 **2. Virtual Memory**
 
-Virtual memory logical memory को physical memory से larger size देता है disk का उपयोग करके।
+Virtual memory gives logical memory a larger size than physical memory by using disk space.
 
 ```
 Advantages:
@@ -258,16 +258,16 @@ Virtual Address Space: 2^32 (32-bit system)
 
 ## Practice Questions
 
-1. 8086 में 5 + 3 add करने के लिए assembly program लिखो
-2. Von Neumann Architecture के components समझाओ
-3. Pipelining के फायदे और नुकसान बताओ
-4. Cache memory क्या है? L1, L2, L3 में अंतर
-5. Virtual memory कैसे काम करती है?
-6. Interrupt handling की प्रक्रिया समझाओ
-7. Different addressing modes के साथ 8086 program लिखो
-8. Memory hierarchy को describe करो
-9. Pipeline hazards के प्रकार बताओ
-10. 8086 register set के बारे में विस्तार से बताओ
+1. Write an assembly program to add 5 + 3 in 8086
+2. Explain the components of Von Neumann Architecture
+3. Explain the advantages and disadvantages of Pipelining
+4. What is Cache memory? Differences between L1, L2, L3
+5. How does Virtual memory work?
+6. Explain the Interrupt handling process
+7. Write an 8086 program with different addressing modes
+8. Describe the Memory hierarchy
+9. Explain the types of Pipeline hazards
+10. Explain the 8086 register set in detail
 
 ---
 
