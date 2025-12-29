@@ -65,9 +65,3 @@
 28. Program for a simple calculator using functions and switch-case.
 
 ---
-
-These cover **Unit 1–5** practicals as per your syllabus.
-
-If you want, I can **prepare a ready-to-practice list of 40–50 C programs** exactly matching your syllabus for quick lab practice and viva preparation. This will help you finish all practicals before exams.
-
-Do you want me to prepare that?
