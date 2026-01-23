@@ -22,6 +22,7 @@
 5. [Contact](#contact)
 6. [Disclaimer](#disclaimer)
 7. [Semester 3](/Semester_3)
+8. [Semester 4](/Semester_4)
 
 ---
 
