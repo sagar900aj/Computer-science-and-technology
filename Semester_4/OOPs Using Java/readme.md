@@ -2,7 +2,9 @@
 
 ---
 
-![java book cover.png]()
+<p align="center">
+  <img src="/java%20book%20cover.png" alt="Computer Science & Technology Banner" width="100%">
+</p>
 
 ---
 
