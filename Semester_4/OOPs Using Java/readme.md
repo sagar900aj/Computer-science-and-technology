@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="/java%20book%20cover.png" alt="Computer Science & Technology Banner" width="100%">
+  <img src="https://github.com/sagar900aj/Computer-science-and-technology/blob/Study/Semester_4/OOPs%20Using%20Java/java%20book%20cover.png" alt="OPPs Java book cover" width="100%">
 </p>
 
 ---
